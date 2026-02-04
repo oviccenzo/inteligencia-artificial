@@ -1,1 +1,1 @@
-https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fpt.pngtree.com%2Ffreebackground%2Fartificial-intelligence-face-view_15418993.html&ved=0CBYQjRxqFwoTCKDH0ritwJIDFQAAAAAdAAAAABA-&opi=89978449
+![Uploading image.png…]()
