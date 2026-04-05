@@ -1,0 +1,31 @@
+para desativar o venv:
+deactivate
+
+para ativar:
+source venv/bin/activate
+
+python3.8 -m venv venv
+
+python3.8 aula-2/serie-temporal.py
+
+para instalar a biblioteca num só biblioteca;
+pip install numpy pandas matplotlib scikit-learn tensorflow numpy
+
+são instalação da biblioteca separada:
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
+pip install tensorflow
+pip install numpy
+pip install yfinance
+
+para limpar a intalar:
+pip uninstall pandas numpy -y
+
+instalar as versões mais compativeis com o 3.8:
+pip install "multitasking<0.0.12" yfinance==0.2.40
+
+python3.8 -m venv venv
+source venv/bin/activate
+pip install pandas numpy yfinance scikit-learn
+# Tente o tensorflow por último, só se liberar MUITO espaço.
