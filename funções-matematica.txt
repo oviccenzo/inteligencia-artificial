@@ -1,8 +1,8 @@
 A principal funções matematica:
 median()
 count()
-argmax()
-argmin()
+idxmax()
+idxmin()
 count_value()
 corr(numeric_only=True)
 value_counts()
