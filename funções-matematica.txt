@@ -1,7 +1,6 @@
 A principal funções matematica:
 median
 count
-std
 idxmax
 idxmin
 sum
