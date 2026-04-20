@@ -2,8 +2,8 @@ A principal funções matematica:
 median
 mean
 count
-idxmax
-idxmin
+idxmax e argmax
+idxmin e argmin depende se estiver usando o dataset csv titanic ou se estiver criando o dataset a mão no caderno e depois colocar no colab para se deu certo  
 sum
 corr
 describe
