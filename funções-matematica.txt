@@ -15,3 +15,4 @@ mode
 nunique
 var
 round
+mean
