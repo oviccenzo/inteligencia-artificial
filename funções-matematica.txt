@@ -1,5 +1,6 @@
 A principal funções matematica:
 median
+mean
 count
 idxmax
 idxmin
@@ -15,4 +16,3 @@ mode
 nunique
 var
 round
-mean
