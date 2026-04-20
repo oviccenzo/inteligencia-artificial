@@ -6,6 +6,7 @@ idxmin
 sum
 corr
 describe
+value_counts()
 min
 max
 tail
