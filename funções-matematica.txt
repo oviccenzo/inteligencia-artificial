@@ -16,3 +16,4 @@ mode
 nunique
 var
 round
+abs
